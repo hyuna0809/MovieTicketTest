@@ -17,6 +17,7 @@ public class MovieMain {
 		
 		m1.dataPrint();
 		m2.dataPrint();
+		
 		m3.dataPrint();
 		
 		
